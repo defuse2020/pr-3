@@ -113,7 +113,7 @@ namespace WindowsFormsApp1
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(230, 358);
+            this.textBox3.Location = new System.Drawing.Point(221, 356);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 8;
